@@ -1,0 +1,10 @@
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\bin\Debug\Fornecedores.exe.config
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\bin\Debug\Fornecedores.exe
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\bin\Debug\Fornecedores.pdb
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.csprojResolveAssemblyReference.cache
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.Form1.resources
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.Properties.Resources.resources
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.csproj.GenerateResource.Cache
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.csproj.CoreCompileInputs.cache
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.exe
+C:\Users\frp.8500545136\Desktop\VS Projetos\Fornecedores\Fornecedores\obj\Debug\Fornecedores.pdb
